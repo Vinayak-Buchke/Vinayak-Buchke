@@ -11,3 +11,4 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to pretend that I studied at hogwards as opposed to a  muggle school
 
+<img src="https://github-readme-stats.vercel.app/api?username=Paimon-food&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
