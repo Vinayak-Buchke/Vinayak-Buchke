@@ -59,9 +59,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a>
-    <img height="150" width="175" src="https://github.com/ps-19/ps-19/blob/master/PNG/left.png" alt="">
+    <img height="100" width="155" src="https://github.com/ps-19/ps-19/blob/master/PNG/left.png" alt="">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ps-19&theme=dark&hide_border=true"/>
-    <img height="150" width="175" src="https://github.com/ps-19/ps-19/blob/master/PNG/right.png">
+    <img height="100" width="155" src="https://github.com/ps-19/ps-19/blob/master/PNG/right.png">
   </a>
 </p>
 
