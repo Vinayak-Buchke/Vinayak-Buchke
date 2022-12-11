@@ -1,9 +1,10 @@
-### Hi there 👋 I am Vinayak
+# **Hi there 👋 I am Vinayak**
 
 
+<p align="center">
+<img src="https://github.com/Vinayakk404/Vinayakk404/blob/main/dev-working_rounded%20(1).gif?raw=true" href="https://github.com/Vinayakk404" alt="Hello Coders" width="70%"/></p> <br>
 
-<img src="https://github.com/Vinayakk404/Vinayakk404/blob/main/dev-working_rounded%20(1).gif?raw=true" href="https://github.com/Vinayakk404" alt="Hello Coders" width="70%"/> <br>
-# All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.
+## **All Projects are OPEN SOURCE. Feel Free to Fork, submit PR and raise issues.**
 
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, <a target="_blank">
