@@ -64,7 +64,7 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"> MySQL  
   &nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"> NoSQL (MongoDB)  
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"> MongoDB
 </p>
 
 #### Version Control  
