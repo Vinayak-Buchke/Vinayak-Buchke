@@ -41,7 +41,7 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
   &nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"> Python  
   &nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png alt="SQL"> SQL  
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"> SQL  
 </p>
 
 ---
