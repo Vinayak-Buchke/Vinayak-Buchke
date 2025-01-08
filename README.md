@@ -5,7 +5,7 @@
 </h1>  
 
 <p align="center">
-  <img src="https://github.com/Vinayakk404/Vinayakk404/blob/main/dev-working_rounded%20(1).gif?raw=true" alt="Hello Coders" width="70%">
+  <img src="https://github.com/Vinayak-Buchke/Vinayak-Buchke/blob/main/dev-working_rounded%20(1).gif?raw=true" alt="Hello Coders" width="70%">
 </p>
 
 ### 🌐 Check out my [Portfolio Website](https://vinayakbuchke.netlify.app/)  
@@ -88,17 +88,17 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
 ## 📈 **GitHub Stats**  
 
 <p align="center">
-  <a href="https://github.com/Vinayakk404">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vinayakk404&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180px">
+  <a href="https://github.com/Vinayak-Buchke">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vinayak-Buchke&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180px">
   </a>
-  <a href="https://github.com/Vinayakk404">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayakk404&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Top Languages" height="180px">
+  <a href="https://github.com/Vinayak-Buchke">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak-Buchke&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Top Languages" height="180px">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Vinayakk404">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayakk404&theme=dark&hide_border=true" alt="GitHub Streak">
+  <a href="https://github.com/Vinayak-Buchke">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-Buchke&theme=dark&hide_border=true" alt="GitHub Streak">
   </a>
 </p>
 
