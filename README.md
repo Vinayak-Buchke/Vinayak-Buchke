@@ -21,8 +21,8 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
 ---
 
 ### 👨‍💻 **About Me**  
-- 🔭 I’m currently working on **Web Development**.  
-- 🌱 I’m learning **DevOps** and **DSA**.  
+- 🔭 I’m currently working as a **Cyber Security Analyst**.  
+- 🌱 I’m learning **System Design** and **DevOps**.  
 - 👯 I’m looking to collaborate on **Web Development Projects**.  
 - 😄 Pronouns: **He/Him**.  
 
