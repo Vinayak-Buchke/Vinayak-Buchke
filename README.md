@@ -104,4 +104,20 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
 
 ---
 
+### 🔢 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/Such_is_life/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="jyot" height="100" width="100" /></a>
+ <a href="https://leetcode.com/Such_is_life/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="jyot" height="100" width="100" /></a>
+   <a href="https://leetcode.com/Such_is_life/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="jyot" height="100" width="100" /></a>
+
+
+</p>
+<p align="center">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Such_is_life?ext=heatmap&theme=dark" alt="LeetCode Stats">
+</p>
+
+
+
 ![Footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
