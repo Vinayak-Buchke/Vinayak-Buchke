@@ -94,7 +94,6 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
 <p>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">  
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">  
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel">  
   <img src="https://img.shields.io/badge/Claroty-00579E?style=for-the-badge&logo=claroty&logoColor=white" alt="Claroty">  
 </p>  
