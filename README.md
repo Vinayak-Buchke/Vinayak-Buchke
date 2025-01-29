@@ -122,11 +122,7 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Vinayak-Buchke">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak-Buchke&theme=dark&hide_border=true" alt="GitHub Streak">
-  </a>
-</p>
+
 
 ---
 
