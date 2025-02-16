@@ -1,3 +1,4 @@
+
 # 
 <h1 align="center">  
   𝐇𝐞𝐥𝐥𝐨, C𝚘𝚍𝚎𝚛𝚜!
@@ -140,6 +141,8 @@ Feel free to **Fork**, submit **PRs**, and raise **issues**! 🚀
   <img src="https://leetcard.jacoblin.cool/Such_is_life?ext=heatmap&theme=dark" alt="LeetCode Stats">
 </p>
 
+
+![Visitor Count](https://profile-counter.glitch.me/{Vinayak-Buchke}/count.svg)
 
 
 ![Footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
